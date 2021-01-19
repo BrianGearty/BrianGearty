@@ -12,11 +12,11 @@ Portfolio: https://briangearty.com
 
 ### Hobbies
 
-🏊 Swimming
-🏃 Running
-🏂 Snowboarding
-🥾 Hiking
-🧳 Traveling
-🍽 Cooking
+🏊 Swimming <br>
+🏃 Running <br>
+🏂 Snowboarding <br>
+🥾 Hiking <br>
+🧳 Traveling <br>
+🍽 Cooking <br>
 
 
