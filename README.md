@@ -1,18 +1,24 @@
-### Hey! 👋
+### Hey I'm Brian Gearty 👋
 
-## My name is Brian!
+### Career Path
 
-<!--
-**BrianGearty/BrianGearty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an enthusiastic, focused and hard-working engineer, with a strong attention to detail. I work well independently as well as in a team format. With the combination of my creative, disciplined work ethic and collaborative skills I am currently seeking a Full time Front End Engineering position with an eclectic team to learn and grow with!
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me!
+
+Gmail: Geartybrian@gmail.com
+LinkedIn: https://www.linkedin.com/in/brian-gearty-2a434a76/
+Portfolio: briangearty.com
+
+### Hobbies
+
+🏊 Swimming
+🏃 Running
+🏂 Snowboarding
+🥾 Hiking
+🧳 Traveling
+🍽 Cooking
+
+
