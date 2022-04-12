@@ -17,6 +17,7 @@ Portfolio: https://briangearty.com
 🏂 Snowboarding <br>
 🥾 Hiking <br>
 🧳 Traveling <br>
+🎣 Fishing <br>
 🍽 Cooking <br>
 
 
